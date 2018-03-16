@@ -18,8 +18,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 
-### Contact
-
+<div id="contact">
+        <h2>Contact me</h2>
         <div id="contact-form">
             <form method="POST" action="https://formspree.io/annie.eaf@gmail.com">
                 <input type="hidden" name="_subject" value="Contact request from personal website" />
@@ -28,3 +28,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
                 <button type="submit">Send</button>
             </form>
         </div>
+  </div>
