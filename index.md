@@ -1,7 +1,7 @@
 ## About me
 ### Ana Esmeralda Fernandes, 22
 
-![](https://avatars3.githubusercontent.com/u/18233346?s=400&u=b7cf4b9b58830c7d74bd912345c1d80304586a5e&v=4 | width=100)
+<img src="https://avatars3.githubusercontent.com/u/18233346?s=400&u=b7cf4b9b58830c7d74bd912345c1d80304586a5e&v=4" data-canonical-src="https://avatars3.githubusercontent.com/u/18233346?s=400&u=b7cf4b9b58830c7d74bd912345c1d80304586a5e&v=4" width="100" height="100" />
 
 I'm Esmeralda and I'm 22 years old. I'm currently studying Software Engineering at University of Minho and going through my forth year. My experties are focused mostly on AI and Computer Graphics since that is what I'm specializing in. I use my free time to sing and play guitar, to read, and catch up on my favorite tv shows.
 
