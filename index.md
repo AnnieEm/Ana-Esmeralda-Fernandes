@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Ana Esmeralda Fernandes
+### Software Engineering Student
 
-You can use the [editor on GitHub](https://github.com/AnnieEm/Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm Esmeralda and I'm 22 years old. I'm currently studying Software Engineering at University of Minho and going through my forth year. My experties are focused mostly on AI and Computer Graphics since that is what I'm specializing in. I use my free time to sing and play guitar, to read, and catch up on my favorite tv shows.
 
 ### Markdown
 
