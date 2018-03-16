@@ -15,7 +15,6 @@ I'm Esmeralda and I'm 22 years old. I'm currently studying Software Engineering 
 
 ### Skills
 <div id="skills">
-        <h2 class="heading">My Skills</h2>
         <ul>
             <li>Haskell</li>
             <li>Java</li>
