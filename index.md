@@ -31,7 +31,7 @@ If you're curious about my singing you can check it out through my youtube page.
 
 <a href="https://www.youtube.com/channel/UC30qV4cJNGbhJQj-z3PJw4w">Here's the link!</a>
 
-### My Github <img class="img-thumbnail shadow-large" style="width:20px" alt="avatar" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-512.png"/>
+### My Github <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-512.png" data-canonical-src="https://cdn1.iconfinder.com/data/icons/logotypes/32/github-512.png" width="20" height="20" />
 
 <a href="https://github.com/AnnieEm">My GitHub</a>
 
