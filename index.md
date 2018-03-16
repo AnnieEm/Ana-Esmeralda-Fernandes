@@ -5,7 +5,7 @@
 
 I'm Esmeralda and I'm 22 years old. I'm currently studying Software Engineering at University of Minho and going through my forth year. My experties are focused mostly on AI and Computer Graphics since that is what I'm specializing in. I use my free time to sing and play guitar, to read, and catch up on my favorite tv shows.
 
-### Education
+### Education <img src="http://www.iconsplace.com/icons/preview/orange/graduation-cap-256.png" data-canonical-src="http://www.iconsplace.com/icons/preview/orange/graduation-cap-256.png" width="20" height="20" />
 ```markdown
 # Most important steps of my education
 
