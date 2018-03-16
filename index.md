@@ -27,9 +27,13 @@ I'm Esmeralda and I'm 22 years old. I'm currently studying Software Engineering 
 
 ### Youtube Channel
 
-If you're curious about my singing you can check it out through my youtube page. How you enjoy it!
+If you're curious about my singing you can check it out through my youtube page. I haven't posted in a while, but there's a lot of videos you can still watcht there. Hope you enjoy it!
 
 <a href="https://www.youtube.com/channel/UC30qV4cJNGbhJQj-z3PJw4w">Here's the link!</a>
+
+### My Github <img class="img-thumbnail shadow-large" style="width:150px" alt="avatar" src="https://www.iconfinder.com/icons/317712/code_repository_github_repository_resource_icon"/>
+
+<a href="https://github.com/AnnieEm">My GitHub</a>
 
 <div id="contact">
         <h2>Contact me</h2>
