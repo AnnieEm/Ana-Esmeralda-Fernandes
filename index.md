@@ -13,9 +13,18 @@ I'm Esmeralda and I'm 22 years old. I'm currently studying Software Engineering 
 2. University of Minho, Braga, Software Engineering, 2014-?
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### Skills
+<div id="skills">
+        <h2 class="heading">My Skills</h2>
+        <ul>
+            <li>Haskell</li>
+            <li>Java</li>
+            <li>C</li>
+            <li>Python</li>
+            <li>C++</li>
+            <li>SQL</li>
+        </ul>
+    </div>
 
 
 <div id="contact">
