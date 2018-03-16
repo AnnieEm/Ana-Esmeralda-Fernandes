@@ -30,6 +30,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
                 <button type="submit">Send</button>
             </form>
         </div>
-        <!-- End #contact-form -->
     </div>
-    <!-- End #contact -->
