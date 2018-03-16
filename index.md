@@ -7,7 +7,7 @@ I'm Esmeralda and I'm 22 years old. I'm currently studying Software Engineering 
 
 ### Education
 ```markdown
-# Most important of my education steps
+# Most important steps of my education
 
 1. Escola Secundária Alberto Sampaio, Braga, 2011-2014
 2. University of Minho, Braga, Software Engineering, 2014-?
@@ -19,5 +19,17 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 
 ### Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ 
+ <div id="contact">
+        <h2>Just get in touch</h2>
+        <div id="contact-form">
+            <form method="POST" action="https://formspree.io/annie.eaf@gmail.com">
+                <input type="hidden" name="_subject" value="Contact request from personal website" />
+                <input type="email" name="_replyto" placeholder="Insert your email" required>
+                <textarea name="message" placeholder="Write your message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+        <!-- End #contact-form -->
+    </div>
+    <!-- End #contact -->
