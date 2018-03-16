@@ -27,7 +27,9 @@ I'm Esmeralda and I'm 22 years old. I'm currently studying Software Engineering 
 
 ### Youtube Channel
 
-<a href="https://www.youtube.com/channel/UC30qV4cJNGbhJQj-z3PJw4w">Subscribe to it!</a>
+If you're curious about my singing you can check it out through my youtube page. How you enjoy it!
+
+<a href="https://www.youtube.com/channel/UC30qV4cJNGbhJQj-z3PJw4w">Here's the link!</a>
 
 <div id="contact">
         <h2>Contact me</h2>
