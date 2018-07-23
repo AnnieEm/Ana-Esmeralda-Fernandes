@@ -39,7 +39,7 @@ If you're curious about my singing you can check it out through my youtube page.
 <div id="contact">
         <h2>Contact me</h2>
         <div id="contact-form">
-            <form method="POST" action="https://formspree.io/annie.eaf@gmail.com">
+            <form method="POST" action="https://formspree.io/anaesmeraldafernandes@gmail.com">
                 <input type="hidden" name="_subject" value="Contact request from personal website" />
                 <input type="email" name="_replyto" placeholder="Insert your email" required>
                 <textarea name="message" placeholder="Write your message" required></textarea>
